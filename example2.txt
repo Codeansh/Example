@@ -1,4 +1,6 @@
 this is an example
 
+I am learning git
 code fode
 mode
+
